@@ -190,6 +190,7 @@ http://172.20.10.2:8501
 ```
 
 Open this URL in any web browser.
+Dashboard Streamlit URL: https://sdas-malaysia-roadsign-detection.streamlit.app/
 
 Any device connected to the same WiFi or hotspot can access the dashboard.
 
