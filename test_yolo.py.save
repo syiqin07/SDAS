@@ -1,0 +1,11 @@
+from ultralytics import YOLO
+from picamera2 import Picamera2
+import cv2
+
+model= YOLO ("road_detection_signs.pt")
+picam2=Picamera2()
+picam2.configure(
+picam2.create_preview_configuration(
+main={"size":(640,480)}
+)
+)

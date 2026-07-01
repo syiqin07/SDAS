@@ -1,0 +1,35 @@
+# ===========================
+# SDAS - Smart Driver Assistance System
+# Raspberry Pi 5 Requirements
+# ===========================
+
+# Computer Vision
+opencv-python
+ultralytics
+easyocr
+numpy
+Pillow
+
+# Machine Learning
+torch
+torchvision
+
+# MQTT
+paho-mqtt
+
+# GPS
+pyserial
+pynmea2
+
+# GPIO & Sensors
+gpiozero
+pigpio
+
+# Dashboard
+streamlit
+plotly
+pandas
+pydeck
+
+# Utilities
+requests
